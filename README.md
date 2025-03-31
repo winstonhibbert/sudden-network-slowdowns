@@ -127,3 +127,20 @@ DeviceProcessEvents
 
 🔐 **Next Steps:** Strengthen **endpoint monitoring**, **restrict PowerShell execution**, and **enhance network segmentation** to prevent future incidents.  
 
+---
+## Created By:
+- **Author Name**: Winston Hibbert
+- **Author Contact**: www.linkedin.com/in/winston-hibbert-262a44271/
+- **Date**: March 31, 2025
+
+## Validated By:
+- **Reviewer Name**: 
+- **Reviewer Contact**: 
+- **Validation Date**: 
+
+---
+
+## Revision History:
+| **Version** | **Changes**                   | **Date**         | **Modified By**   |
+|-------------|-------------------------------|------------------|-------------------|
+| 1.0         | Initial draft                  | `March 31, 2025`  | `Winston Hibbert`   
